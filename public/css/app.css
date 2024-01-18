@@ -1,0 +1,11 @@
+.completed{
+    text-decoration: line-through;
+}
+.my-pag svg{
+    width: 20px;
+}
+
+
+.my-pag div.flex.justify-between.flex-1.sm:hidden{
+    margin-top: 120px;
+}
